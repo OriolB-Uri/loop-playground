@@ -12,3 +12,53 @@
 let mes = 4;
 
 // Escribir tu código a partir de aquí
+
+switch(mes){
+    case 1:
+        console.log("Estamos en el primer trimestre");
+        break;
+    
+    case 2:
+        console.log("Estamos en el primer trimestre");
+        break;
+    
+    case 3:
+        console.log("Estamos en el primer trimestre");
+        break;
+
+    case 4:
+        console.log("Estamos en el segundo trimestre");
+        break;
+
+    case 5:
+        console.log("Estamos en el segundo trimestre");
+        break;
+
+    case 6:
+        console.log("Estamos en el segundo trimestre");
+        break;
+
+    case 7:
+        console.log("Estamos en el tercer trimestre");
+        break;
+
+    case 8:
+        console.log("Estamos en el tercer trimestre");
+        break;
+
+    case 9:
+        console.log("Estamos en el tercer trimestre");
+        break;
+
+    case 10:
+        console.log("Estamos en el cuarto trimestre");
+        break;
+
+    case 11:
+        console.log("Estamos en el cuarto trimestre");
+        break;
+
+    case 12:
+        console.log("Estamos en el cuarto trimestre");
+        break;
+}
